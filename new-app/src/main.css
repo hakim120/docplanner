@@ -1,0 +1,36 @@
+h1{
+    margin-top:134px;
+    margin-bottom: 12.5rem;
+      color :rgb(20, 161, 161);
+  }
+  .nav-link {
+    /* display: block; */
+   
+    margin-left: 552px;
+    margin-right: -483px;}
+   
+   
+  h4{
+      color:rgb(20, 161, 161);
+  }
+  .cc{
+      display:flex;
+     
+    
+  }
+  .kaka{
+    display:flex;
+  }
+  .container2{
+    background-color:rgb(179, 228, 228);
+  }
+  #simplon1{
+    margin-right: 25px;
+    top: 27px;
+    margin-bottom: 49px;
+  }
+  #simplon2{
+    margin-right: 25px;
+    top: 27px;
+    margin-bottom: 49px;
+  }
